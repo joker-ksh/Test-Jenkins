@@ -1,1 +1,1 @@
-print("Hello jenkins is weebhook good v1")
+print("Hello jenkins is weebhook good v2")
